@@ -1,4 +1,4 @@
-### Voice Controlled React News Application
+## Voice Controlled React News Application
 
 ### Tech-Stack
 
